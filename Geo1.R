@@ -1,0 +1,2 @@
+library(googleVis)
+?Map
